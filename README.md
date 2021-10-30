@@ -20,3 +20,4 @@ commandes des bots:
 
 		il est aussi possible d'utiliser des trigger words sans commande (deux exemples sont situer dans \gifdiscordbot\giflinks il est important de respecter le format des éxemples)
 
+		des message automatique peuvent étre envoyer a des heures précise (trois éxemples situer dans \gifdiscordbot\timed_messages.txt il est important de respecter le format des éxemples)
